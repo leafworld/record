@@ -25,7 +25,7 @@
 
 ![image](https://github.com/leafworld/record/blob/master/pictures/swift_cosbench_avg_bandwidth.png)
 
-![image](https://github.com/leafworld/record/blob/master/pictures/swift_cosbench_avg_throughput.png)
+![image](https://github.com/leafworld/record/blob/master/pictures/swift_cosbench_avg_througput.png)
 
 结论1：在256kb,512kb,1m带宽变化不明显，而对<256kb对象大小影响较大
 
