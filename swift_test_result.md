@@ -4,6 +4,7 @@
 
 ### 1.不同磁盘运行结果
 ![image][https://github.com/leafworld/record/pictures/xfs_fio_disk_bandwidth.png]
+
 ![image][https://github.com/leafworld/record/pictures/xfs_fio_disk_iops.png]
 
 问题：
@@ -11,6 +12,7 @@
 
 ### 2.文件大小和seq/rand
 ![image][https://github.com/leafworld/record/pictures/xfs_fio_size_bandwidth.png]
+
 ![image][https://github.com/leafworld/record/pictures/xfs_fio_size_iops.png]
 
 结论：
@@ -20,7 +22,9 @@
 ## swift性能测试
 ### 1.对象大小
 ![image][https://github.com/leafworld/record/pictures/swift_cosbench_stage_bandwidth.png]
+
 ![image][https://github.com/leafworld/record/pictures/swift_cosbench_avg_bandwidth.png]
+
 ![image][https://github.com/leafworld/record/pictures/swift_cosbench_avg_throughput.png]
 
 结论1：在256kb,512kb,1m带宽变化不明显，而对<256kb对象大小影响较大
@@ -33,6 +37,7 @@
 
 ### 2.每container中对象数目影响
 ![image][https://github.com/leafworld/record/pictures/swift_cosbench_onum_bandwidth.png]
+
 ![image][https://github.com/leafworld/record/pictures/swift_cosbench_onum_throughput.png]
 
 结论：目前由于对象数目较少，变化不大
