@@ -13,7 +13,7 @@
 ### 2.文件大小和seq/rand
 ![image](https://github.com/leafworld/record/blob/master/pictures/xfs_fio_size_bandwidth.png)
 
-![image](https://github.com/leafworld/record/blob/master/pictures/xfs_fio_size_iops.png)
+![image](https://github.com/leafworld/record/blob/master/pictures/xfs_fio_iops_bandwidth.png)
 
 结论：
 - 在256kb一下增长趋势更大
