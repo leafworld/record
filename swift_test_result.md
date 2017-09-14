@@ -1,6 +1,6 @@
 # 虚拟机3节点swift测试结果
 
-## xfs性能测试
+## xfs性能测试<font color="0099ff">（有问题）</font>
 
 ### 1.不同磁盘运行结果
 ![image](https://github.com/leafworld/record/blob/master/pictures/xfs_fio_disk_bandwidth.png)
